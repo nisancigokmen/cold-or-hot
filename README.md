@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
 <div id="useApp">
   
   <h3>USE OF </h3> 
-  
+ 
    <ol>
     <li> <p>Enter numbers between 1 and 20.</p> </li>
   <li> <p>   When you get close to the lucky number, `COLD` and when you get away, `HOT` expressions will appear.</p> </li>
@@ -24,7 +24,6 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://assets.webiconspng.com/uploads/2017/01/Mail-Amazing-PNG-Icon.png" width="72px"> </a> 
  
  </div>
- 
  
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
