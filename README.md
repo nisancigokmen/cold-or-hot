@@ -26,7 +26,6 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
  
  </div>
  
- 
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
  
@@ -47,4 +46,3 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
   <br> <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
-
