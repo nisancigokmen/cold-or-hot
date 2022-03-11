@@ -6,7 +6,6 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
  
   <h3>USE OF </h3> 
  
- 
    <ol>
     <li> <p>Enter numbers between 1 and 20.</p> </li>
   <li> <p>   When you get close to the lucky number, `COLD` and when you get away, `HOT` expressions will appear.</p> </li>
@@ -42,7 +41,4 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 
-<img src= "https://media3.giphy.com/media/lE6MQFHe6NREA/giphy.gif?cid=ecf05e474mo02103doc0mr60mco6dh030ly01czw3x9f7wah&rid=giphy.gif&ct=g" width="420" height ="220px">
-  <br> <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+<img src= "https://media3.giphy.com/media/lE6MQFHe6NREA/giphy.gif?cid=ecf05e474mo02103
