@@ -19,12 +19,14 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
 
 <div id="contact">
  
+ 
 <h2> Connect with me: </h2>
  
   <a href="https://linkedin.com/in/nisancigokmen"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="66x"> </a>  &nbsp;
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://img.icons8.com/ios-glyphs/60/000000/new-post.png"/> </a> 
  
  </div>
+ 
  
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
@@ -38,6 +40,7 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
  </div>
  
 <br>
+  
   
   
 </div><br>
