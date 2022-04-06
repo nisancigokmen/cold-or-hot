@@ -1,6 +1,5 @@
 # Cold or Hot ? 
 
-
 https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-a835-f8140e7dd701.mp4
 
 <div id="useApp">
@@ -25,7 +24,6 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://img.icons8.com/ios-glyphs/60/000000/new-post.png"/> </a> 
  
  </div>
- 
  
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
