@@ -41,4 +41,4 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 
-<img src= "https://media3.giphy.com/media/lE6MQFHe6NREA/giphy.gif?cid=ecf05e474mo02103
+<img src= "https://media3.giphy.com/media/lE6MQFHe6NREA/giphy.gif?cid=ecf05e474mo02103"/>
