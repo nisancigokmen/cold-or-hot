@@ -45,5 +45,6 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
 
 <img src= "https://media3.giphy.com/media/lE6MQFHe6NREA/giphy.gif?cid=ecf05e474mo02103"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
 
 
