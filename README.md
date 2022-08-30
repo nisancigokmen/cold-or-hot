@@ -1,12 +1,10 @@
 # Cold or Hot ? 
 
-
 https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-a835-f8140e7dd701.mp4
 
 <div id="useApp">
  
   <h3>USE OF </h3> 
- 
 
    <ol>
     <li> <p>Enter numbers between 1 and 20.</p> </li>
@@ -25,7 +23,6 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
  
   <a href="https://linkedin.com/in/nisancigokmen"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="66x"> </a>  &nbsp;
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://img.icons8.com/ios-glyphs/60/000000/new-post.png"/> </a> 
- 
  
  </div>
  
