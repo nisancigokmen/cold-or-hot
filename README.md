@@ -4,8 +4,6 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
 
 <div id="useApp">
 
-
- 
   <h3>USE OF </h3> 
 
    <ol>
@@ -15,6 +13,7 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
   <li><p> Good luck &#128516 </p></li>
          
   </ol>
+ 
  
  
 </div><br>
