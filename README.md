@@ -8,6 +8,7 @@ https://user-images.githubusercontent.com/91744618/152216852-20cf40fc-8de5-418c-
   <h3>USE OF </h3> 
 
    <ol>
+   
     <li> <p>Enter numbers between 1 and 20.</p> </li>
   <li> <p>   When you get close to the lucky number, `COLD` and when you get away, `HOT` expressions will appear.</p> </li>
   <li> <p> You have 5 guesses </p></li>
